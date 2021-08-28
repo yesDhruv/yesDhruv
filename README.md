@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @yesDhruv
+- 👋 Hi, I’m Dhurv Rawat
 - 👀 I’m interested in Machine Learning
 - 🌱 I’m currently learning everything 
 - 💞️ I’m looking to collaborate with Other Content Creators
