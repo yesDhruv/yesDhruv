@@ -1,5 +1,5 @@
 <!-- Intro -->
-<h1 align="center"><img height="40" src="https://c.tenor.com/Wx9IEmZZXSoAAAAi/hi.gif" /> Hi, I'm Dhruv Rawat 😇</h1>
+<h1 align="center"><img height="120" src="https://c.tenor.com/Wx9IEmZZXSoAAAAi/hi.gif" /> Hi, I'm Dhruv Rawat 😇</h1>
 <!-- End of Intro -->
 <br><br>
 
