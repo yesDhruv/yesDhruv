@@ -1,30 +1,35 @@
 <!-- Intro -->
-<h1 align="center"><img height="120" src="https://c.tenor.com/Wx9IEmZZXSoAAAAi/hi.gif" /> Hi, I'm Dhruv Rawat 😇</h1>
+### Hi there 👋
+I am a Pre-Final Year Student in Information Technology from **MSIT, New Delhi**.
+
 <!-- End of Intro -->
-<br><br>
+<!-- <br><br> -->
 
 <!-- Hero -->
 <!-- End of Hero -->
 
 <!-- About -->
----
-- 🌱 I’m currently learning **Data Structures and Algorithms.**
+<!-- --- -->
+ ![](https://komarev.com/ghpvc/?username=yesDhruv&color=green)
+<!-- - 🌱 I’m currently learning **Data Structures and Algorithms.**
 
 - 🚀 I’m currently doing **MERN STACK** 
-
-- 👯 I’m looking to collaborate on **OpenSource Projects.**
+- 👯 I’m looking to collaborate on **OpenSource Projects.** -->
 
 <!-- - 👨‍💻 All of my Activity are available at **[My Portfolio](https://nitinrathodsvnit.github.io/My-Portfolio/)** -->
+### 📫 How to reach me
+-  👥 LinkedIn [@Dhruv Rawat](https://www.linkedin.com/in/vikas-baghel-a91820140/)
+-  💻 Website: [@Dhruv Rawat Portfolio](https://dhruv-rawat-profile.on.fleek.co/)
 
-- 📫 How to reach me **dhruvrawat54@gmail.com**
+ 💬 Ask me about **Problem Solving and MERN Stack**
 
-- 💬 Ask me about **Problem-Solving and Web-Dev**
+  ⚡ Fun fact **I can perform the Spilts.**
 
-- ⚡ Fun fact **I can perform the Spilts.**
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=yesDhruv&show_icons=true&count_private=true&theme=tokyonight" alt="dhruv-rawat" />
 
 <!-- End of About -->
-  
-<br>
+ 
+<!-- <br> -->
 
 <!-- Languages -->
 <h3 align="left">Languages :</h3>
