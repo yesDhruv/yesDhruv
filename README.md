@@ -25,7 +25,7 @@ I am a Pre-Final Year Student in Information Technology from **MSIT, New Delhi**
 
   ⚡ Fun fact **I can perform the Spilts.**
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=yesDhruv&show_icons=true&count_private=true&theme=tokyonight" alt="dhruv-rawat" />
+<img src="https://github-readme-stats.vercel.app/api?username=yesDhruv&show_icons=true&count_private=true&theme=tokyonight" alt="dhruv-rawat" />
 
 <!-- End of About -->
  
