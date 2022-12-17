@@ -18,7 +18,7 @@ I am a Pre-Final Year Student in Information Technology from **MSIT, New Delhi**
 
 <!-- - 👨‍💻 All of my Activity are available at **[My Portfolio](https://nitinrathodsvnit.github.io/My-Portfolio/)** -->
 ### 📫 How to reach me
--  👥 LinkedIn [@Dhruv Rawat]([https://www.linkedin.com/in/yesdhruv/])
+-  👥 LinkedIn [@Dhruv Rawat](https://www.linkedin.com/in/yesdhruv/)
 -  💻 Website: [@Dhruv Rawat Portfolio](https://dhruv-rawat-profile.on.fleek.co/)
 
  💬 Ask me about **Problem Solving and MERN Stack**
