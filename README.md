@@ -25,7 +25,7 @@ I am a Pre-Final Year Student in Information Technology from **MSIT, New Delhi**
 
   ⚡ Fun fact **I can perform the Spilts.**
 
-<img src="https://github-readme-stats.vercel.app/api?username=yesDhruv&show_icons=true&count_private=true&theme=tokyonight" alt="dhruv-rawat" />
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=yesDhruv&show_icons=true&count_private=true&theme=tokyonight" alt="dhruv-rawat" /> -->
 
 <!-- End of About -->
  
@@ -39,7 +39,7 @@ I am a Pre-Final Year Student in Information Technology from **MSIT, New Delhi**
   <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/> </a> 
   <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/> </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> </a> 
-  <a href="https://www.python.org" target="_blank"> <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/> </a>
+<!--   <a href="https://www.python.org" target="_blank"> <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/> </a> -->
 </p>
 <!-- End of Languages -->
 
