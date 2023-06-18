@@ -10,7 +10,7 @@ I am a Pre-Final Year Student in Information Technology from **MSIT, New Delhi**
 
 <!-- About -->
 <!-- --- -->
- ![](https://komarev.com/ghpvc/?username=yesDhruv&color=green)
+<!--  ![](https://komarev.com/ghpvc/?username=yesDhruv&color=green) -->
 <!-- - 🌱 I’m currently learning **Data Structures and Algorithms.**
 
 - 🚀 I’m currently doing **MERN STACK** 
