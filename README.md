@@ -1,6 +1,6 @@
 <!-- Intro -->
 ### Hi there 👋
-I am a Pre-Final Year Student in Information Technology from **MSIT, New Delhi**.
+I am a Final Year Student in Information Technology from **MSIT, New Delhi**.
 
 <!-- End of Intro -->
 <!-- <br><br> -->
