@@ -92,7 +92,7 @@ I am a Pre-Final Year Student in Information Technology from **MSIT, New Delhi**
 <hr>
 
 <!-- Thank You -->
-<img height="200" align="left" src="https://c.tenor.com/KMickTxR-aUAAAAi/tanjiro.gif" alt="nitin23rathod" />
+<!--<img height="200" align="left" src="https://c.tenor.com/KMickTxR-aUAAAAi/tanjiro.gif" alt="nitin23rathod" />-->
 <h1 align="center">THANK YOU FOR VISITING !!!</h1>
 <!-- End of Thank You -->
 
