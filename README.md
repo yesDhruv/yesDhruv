@@ -1,7 +1,7 @@
 <!-- Intro -->
 ### Hi there 👋
 I am a Final Year Student in Information Technology from **MSIT, New Delhi**.
-
+Product + Tech Writing + Code 
 <!-- End of Intro -->
 <!-- <br><br> -->
 
